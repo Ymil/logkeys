@@ -14,5 +14,5 @@ aclocal \
 
 echo "... done.  Now please do the following:"
 echo
-echo "   cd build; ../configure; make; su; make install"
+echo "   cd build; sudo ../configure; sudo make; sudo make install"
 echo
